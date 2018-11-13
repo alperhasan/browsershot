@@ -25,7 +25,7 @@
     "require": {       
         "spatie/image": "^1.4",
         "spatie/temporary-directory": "^1.1",
-        "symfony/process": "3.4"
+        "symfony/process": "2.7.46"
     },
     "autoload": {
         "psr-4": {
