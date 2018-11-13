@@ -23,8 +23,8 @@
         }
     ],
     "require": {       
-        "spatie/image": "^1.4",
-        "spatie/temporary-directory": "^1.1",
+        "spatie/image": "<=1.4",
+        "spatie/temporary-directory": "<=1.1",
         "symfony/process": "<=3.0"
     },
     "autoload": {
