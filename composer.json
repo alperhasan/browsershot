@@ -22,8 +22,7 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "php": "^5.0",
+    "require": {       
         "spatie/image": "^1.4",
         "spatie/temporary-directory": "^1.1",
         "symfony/process": "3.4"
